@@ -1,0 +1,43 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   lua/firstProject/Debug/firstProject.exe
+#	new file:   lua/firstProject/Debug/firstProject.ilk
+#	new file:   lua/firstProject/Debug/firstProject.pdb
+#	new file:   lua/firstProject/firstProject.sdf
+#	new file:   lua/firstProject/firstProject.sln
+#	new file:   lua/firstProject/firstProject.v11.suo
+#	new file:   lua/firstProject/firstProject/Debug/CL.read.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/CL.write.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/Main.obj
+#	new file:   lua/firstProject/firstProject/Debug/cl.command.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/firstProject.lastbuildstate
+#	new file:   lua/firstProject/firstProject/Debug/firstProject.log
+#	new file:   lua/firstProject/firstProject/Debug/link-cvtres.read.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link-cvtres.write.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link-rc.read.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link-rc.write.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link.12600-cvtres.read.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link.12600-cvtres.write.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link.12600-rc.read.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link.12600-rc.write.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link.12600.read.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link.12600.write.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link.command.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link.read.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/link.write.1.tlog
+#	new file:   lua/firstProject/firstProject/Debug/vc110.idb
+#	new file:   lua/firstProject/firstProject/Debug/vc110.pdb
+#	new file:   lua/firstProject/firstProject/Main.cpp
+#	new file:   lua/firstProject/firstProject/firstProject.vcxproj
+#	new file:   lua/firstProject/firstProject/firstProject.vcxproj.filters
+#	new file:   lua/firstProject/firstProject/main.lua
+#
+
