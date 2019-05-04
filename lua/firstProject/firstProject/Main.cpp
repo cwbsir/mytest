@@ -1,4 +1,5 @@
 #include <iostream>
+//è¿è¡Œcä»£ç 
 extern "C"
 {
 	#include "E:\LuaLib\src\lua.h"
@@ -11,11 +12,11 @@ void main()
 	
 	lua_State *L=luaL_newstate();
 	luaopen_base(L);
-	//std::string str("ËÕÏÍ¿Æ¼¼");
+	//std::string str("è‹è´¤ç§‘æŠ€");
 	//lua_pushlstring(L,str.c_str(),str.size());
-	//printf("Õ»¶¥ÔªËØ:%s",lua_tostring(L,-1));
+	//printf("æ ˆé¡¶å…ƒç´ :%s",lua_tostring(L,-1));
 	luaL_dofile(L,"main.lua");
-	printf("Õ»ÖĞÓĞ%d¸öÔªËØ\n",lua_gettop(L));
+	printf("æ ˆä¸­æœ‰%dä¸ªå…ƒç´ \n",lua_gettop(L));
 	lua_close(L);
 	getchar();
 }
